@@ -1,0 +1,26 @@
+{
+  "name": "Homework10_Team_Profile_Generator",
+  "version": "1.0.0",
+  "description": "Generates a team profile HTML page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAW6063/Homework10_Team_Profile_Generator.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/PAW6063",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PAW6063/Homework10_Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/PAW6063/Homework10_Team_Profile_Generator#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
