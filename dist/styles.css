@@ -1,0 +1,31 @@
+.jumbotron{
+    background-color: #F0DB4F;
+    margin-bottom: 75px;
+}
+
+.jumbotron-header {
+    color: #323330;
+    font-weight: bolder;
+}
+
+.card {
+    margin: 20px;
+    box-shadow: 5px 10px 15px #323330;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 12px;
+    border-color: #323330;
+}
+
+.card-header {
+    background-color: #323330;
+    color: #F0DB4F;
+    font-weight: bolder;
+    padding-top: 15px;
+}
+
+.card-header:first-child{
+    font-weight: bold;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
