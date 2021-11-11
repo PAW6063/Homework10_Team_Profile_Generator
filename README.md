@@ -2,6 +2,7 @@
 
 ## Links
 
+https://drive.google.com/file/d/1ekigjpq-emYf6CwlWB4GSTvoydVaHG5Q/view?usp=sharing
 
 ## Description
 Generates a team profile HTML page to display the team members names, email, id, and one for the follow (office number, github, or school).
@@ -30,7 +31,7 @@ npm init
  ```
 
 ## Usage
-[![video](https://img.shields.io/badge/video-How%20to%20Use-orange)]()
+[![video](https://img.shields.io/badge/video-How%20to%20Use-orange)](https://drive.google.com/file/d/1ekigjpq-emYf6CwlWB4GSTvoydVaHG5Q/view?usp=sharing)
 
 
 To use this program run the command 
