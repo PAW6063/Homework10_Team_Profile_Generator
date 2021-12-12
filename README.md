@@ -19,7 +19,7 @@ The email acts as a clickable link to open the default mail app to quickly be ab
 ## Installation
 Clone the GitHub repository 
 ```
-git clone git@github.com:PAW6063/Homework10_Team_Profile_Generator.git
+git clone git@github.com:PAW6063/Team_Profile_Generator.git
 ```
 then enter the command 
 ```
