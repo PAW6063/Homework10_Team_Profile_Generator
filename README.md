@@ -1,4 +1,4 @@
-# Homework10_Team_Profile_Generator
+# Team_Profile_Generator
 
 ## Links
 
